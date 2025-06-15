@@ -1,3 +1,3 @@
 module github.com/GiovannaK/continuous_integration
 
-go 1.22.6
+go 1.22
